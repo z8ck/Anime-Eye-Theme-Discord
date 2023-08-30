@@ -54,7 +54,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url(https://media.discordapp.net/attachments/1143882332735025172/1146501201383391352/sharingan.jpg?width=208&height=423');
+  --home-icon: url('https://cdn.discordapp.com/attachments/1143882332735025172/1146508010500407336/sharinga.png');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
