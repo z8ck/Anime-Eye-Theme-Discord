@@ -19,7 +19,7 @@
   --danger-color: #FFFFFF;
   --url-color: var(--main-color);
   --undefined: 0;
-  --background-image: url('https://https://cdn.discordapp.com/attachments/1143882332735025172/1146498644435013652/itachi-uchiha-kisame-hoshigaki-in-the-rain-7y1rj56k0jco8qnk.gif');
+  --background-image: url('https://media.discordapp.net/attachments/1143882332735025172/1146499790813806663/itachi-and-kisame-in-the-rain.jpg?width=751&height=422');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -32,7 +32,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://rare-gallery.com/thumbnail/438642-anime-dark-background-red-eyes-face-dark-looking-at-viewer.jpg');
+  --user-popout-image: url('https://media.discordapp.net/attachments/1143882332735025172/1146499790813806663/itachi-and-kisame-in-the-rain.jpg?width=751&height=422');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -43,7 +43,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://rare-gallery.com/thumbnail/438642-anime-dark-background-red-eyes-face-dark-looking-at-viewer.jpg');
+  --user-modal-image: url('https://media.discordapp.net/attachments/1143882332735025172/1146499790813806663/itachi-and-kisame-in-the-rain.jpg?width=751&height=422');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -54,7 +54,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://e0.pxfuel.com/wallpapers/684/1/desktop-wallpaper-sharingan-eye-naruto-sharingan-android.jpg');
+  --home-icon: url('https://media.discordapp.net/attachments/1143882332735025172/1146501201383391352/sharingan.jpg?width=208&height=423');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
