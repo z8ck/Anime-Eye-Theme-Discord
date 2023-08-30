@@ -23,7 +23,7 @@
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
-  --background-repeat: no-repeat;
+  --background-repeat: repeat;
   --background-attachment: fixed;
   --background-brightness: 147%;
   --background-contrast: 100%;
@@ -35,7 +35,7 @@
   --user-popout-image: url('https://cdn.discordapp.com/attachments/1143882332735025172/1146502038230941836/itachi-uchiha-kisame-hoshigaki-in-the-rain-7y1rj56k0jco8qnk.gif');
   --user-popout-position: center;
   --user-popout-size: cover;
-  --user-popout-repeat: no-repeat;
+  --user-popout-repeat: repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
@@ -46,7 +46,7 @@
   --user-modal-image: url('https://media.discordapp.net/attachments/1143882332735025172/1146499790813806663/itachi-and-kisame-in-the-rain.jpg?width=751&height=422');
   --user-modal-position: center;
   --user-modal-size: cover;
-  --user-modal-repeat: no-repeat;
+  --user-modal-repeat: repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 100%;
   --user-modal-contrast: 100%;
