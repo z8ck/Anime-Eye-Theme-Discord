@@ -56,7 +56,7 @@
   --user-modal-blur: 3px;
   --home-icon: url('https://media.discordapp.net/attachments/1146508577863901356/1146772706365284462/sharinga.png?width=208&height=423');
   --home-position: center;
-  --home-size: 40px;
+  --home-size: 80px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
