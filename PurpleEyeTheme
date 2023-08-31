@@ -19,7 +19,7 @@
   --danger-color: #FFFFFF;
   --url-color: var(--main-color);
   --undefined: 0;
-  --background-image: url('https://cdn.discordapp.com/attachments/1143882332735025172/1146502038230941836/itachi-uchiha-kisame-hoshigaki-in-the-rain-7y1rj56k0jco8qnk.gif');
+  --background-image: url('https://https://cdn.discordapp.com/attachments/1146508577863901356/1146772903531139123/itachi-uchiha-kisame-hoshigaki-in-the-rain-7y1rj56k0jco8qnk.gif');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -32,7 +32,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://cdn.discordapp.com/attachments/1143882332735025172/1146502038230941836/itachi-uchiha-kisame-hoshigaki-in-the-rain-7y1rj56k0jco8qnk.gif');
+  --user-popout-image: url('https://https://cdn.discordapp.com/attachments/1146508577863901356/1146772903531139123/itachi-uchiha-kisame-hoshigaki-in-the-rain-7y1rj56k0jco8qnk.gif');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: repeat;
@@ -43,7 +43,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://media.discordapp.net/attachments/1143882332735025172/1146499790813806663/itachi-and-kisame-in-the-rain.jpg?width=751&height=422');
+  --user-modal-image: url('https://cdn.discordapp.com/attachments/1146508577863901356/1146772903531139123/itachi-uchiha-kisame-hoshigaki-in-the-rain-7y1rj56k0jco8qnk.gif');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: repeat;
@@ -54,7 +54,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://cdn.discordapp.com/attachments/1143882332735025172/1146501201383391352/sharingan.jpg');
+  --home-icon: url('https://https://cdn.discordapp.com/attachments/1146508577863901356/1146772706038140939/sharingan.jpg');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
